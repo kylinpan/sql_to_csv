@@ -1,0 +1,5 @@
+.vscode
+.history
+sql_query
+config.json
+*.csv
