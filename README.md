@@ -4,7 +4,7 @@
 
 * 创建config.json 文件
 
-``` 
+```
     {
     "MysqlHost": "127.0.0.1",
     "MysqlPort": "3306",
@@ -12,4 +12,5 @@
     "MysqlName": "xxx",
     "MysqlPassWord": "xxx",
     "Query":"select * from xxx"
-    } ```
+    }
+```
