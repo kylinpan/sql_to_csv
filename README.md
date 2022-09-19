@@ -1,4 +1,4 @@
-# sql_query
+# sql_to_csv
 
 * 将sql 查询结果，导出成csv 文件
 
